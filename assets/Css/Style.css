@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.titulo{
+    font-size: 25px;
+}
+
+.botones button{
+    border-radius: 5px;
+}
+
+.botones ul li{
+    margin: 20px;
+}
+
+.botones ul li a{
+    font-size: 20px;
+}
